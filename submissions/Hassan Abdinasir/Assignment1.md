@@ -1,6 +1,4 @@
-Here’s a clear, well-structured answer to all parts of your question, written in **simple academic English**:
 
----
 
 ## 1. Definition of Machine Learning (with a real-life example)
 
